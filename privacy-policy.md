@@ -1,9 +1,9 @@
 # Privacy Policy for Audiobook (Offline TTS)
 
-  **Last updated: April 20, 2026**
+  **Last updated: Oct 14, 2026**
 
   Audiobook ("we", "the app") is a text-to-speech audiobook reader developed by
-  Feng Yang. This policy explains what information the app handles, what it does
+  Share software LTD. This policy explains what information the app handles, what it does
   not, and your rights. We designed Audiobook to work entirely on your device —
   so for most users, this policy is short by necessity.
 
